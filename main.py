@@ -13,7 +13,7 @@ if not OPENAI_KEY:
     raise SystemExit(
         "ERROR: OPENAI_API_KEY not found. Set it in the environment or .env file.")
 
-client = OpenAI(api_key=OPENAI_KEY)
+client = OpenAI(api_key=OPENAI_KEY)    
 
 
 def fetch_products() -> List[dict]:
