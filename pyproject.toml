@@ -1,0 +1,15 @@
+[project]
+name = "shopping-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "agents>=1.4.0",
+    "aiohttp>=3.12.15",
+    "fastapi>=0.116.1",
+    "httpx>=0.28.1",
+    "openai-agents>=0.2.11",
+    "python-dotenv>=1.1.1",
+    "uvicorn>=0.35.0",
+]

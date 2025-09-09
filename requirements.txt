@@ -1,0 +1,5 @@
+openai-agents
+openai
+requests
+nest_asyncio
+python-dotenv
