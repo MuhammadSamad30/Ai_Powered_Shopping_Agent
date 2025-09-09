@@ -1,8 +1,3 @@
-
-
----
-
-````markdown
 # 🛒 AI-Powered Shopping Agent
 
 A simple **Python-based shopping assistant** that fetches products from an API and helps users filter and search items using natural language queries.  
